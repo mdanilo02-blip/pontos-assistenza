@@ -1,0 +1,1702 @@
+[
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DO FEMUR",
+    "code": "408050519",
+    "value": 247.8
+  },
+  {
+    "name": "QUADRICEPSPLASTIA",
+    "code": "408050110",
+    "value": 332.03
+  },
+  {
+    "name": "MANIPULAÇÃO ARTICULAR",
+    "code": "408060158",
+    "value": 54.79
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "TENOMIORRAFIA",
+    "code": "408060450",
+    "value": 81.66
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DO UMERO",
+    "code": "408020393",
+    "value": 122.44
+  },
+  {
+    "name": "REPARO DE ROTURA DO MANGUITO ROTADOR (INCLUI PROCEDIMENTOS",
+    "code": "408010142",
+    "value": 190.86
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA/ LESAO FISARIA DA EXTREMIDADE PROXIMAL DO UMERO",
+    "code": "408020334",
+    "value": 134.59
+  },
+  {
+    "name": "RETIRADA DE FIO OU PINO INTRA-ÓSSEO",
+    "code": "408060352",
+    "value": 55.96
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA / LESÃO FISARIA DO CÔNDILO / TRÓCLEA/APOFISE CORONÓIDE DO ULNA / CABEÇA DO RÁDIO",
+    "code": "408020369",
+    "value": 121.17
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE LESÃO AGUDA CAPSULO-LIGAMENTAR DOMEMBRO SUPERIOR: COTOVELO / PUNHO",
+    "code": "408020482",
+    "value": 97.48
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DA FRATURA DO CALCANEO",
+    "code": "408050535",
+    "value": 114.13
+  },
+  {
+    "name": "RECONSTRUÇÃO DE TENDAO PATELAR / TENDAO QUADRICIPITAL",
+    "code": "408050136",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA EXTREMIDADE / METÁFISE DISTAL DOS OSSOS DO ANTEBRAÇO",
+    "code": "408020407",
+    "value": 94.31
+  },
+  {
+    "name": "MANIPULAÇÃO ARTICULAR",
+    "code": "408060158",
+    "value": 54.79
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA CLAVICULA",
+    "code": "408010150",
+    "value": 103.18
+  },
+  {
+    "name": "OSTEOTOMIA DA CLAVÍCULA OU DA ESCÁPULA",
+    "code": "408010118",
+    "value": 101.26
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA / LESÃO FISARIA DAS FALANGES DA MÃO (COM FIXAÇÃO)",
+    "code": "408020342",
+    "value": 82.91
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURAS DOS OSSOS DO CARPO",
+    "code": "408020466",
+    "value": 98.93
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE ROTURA / DESINSERÇÃO / ARRANCAMENTO CAPSULO-TENO-LIGAMENTAR NA MÃO",
+    "code": "408020610",
+    "value": 111.51
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DIAFISARIA ÚNICA DO RÁDIO / DA ULNA",
+    "code": "408020431",
+    "value": 95.94
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA BIMALEOLAR / TRIMALEOLAR / DA FRATURALUXAÇÃO DO TORNOZELO",
+    "code": "408050497",
+    "value": 169.13
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE LESÃO AGUDA CAPSULO-LIGAMENTAR MEMBRO INFERIOR (JOELHO/ TORNOZELO)",
+    "code": "408050667",
+    "value": 150.17
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO PLANALTO TIBIAL",
+    "code": "408050551",
+    "value": 145.07
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DO PILÃO TIBIAL ( ESQUERDO)",
+    "code": "408050543",
+    "value": 202.95
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DO TORNOZELO UNIMALEOLAR ( ESQUERDO)",
+    "code": "408050578",
+    "value": 124.03
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA / LESÃO FISARIA DOS METACARPIANOS ( ESQUERDO)",
+    "code": "408020377",
+    "value": 111.51
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DA TIBIA ( ESQUERDA)",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE ROTURA DE MENISCO COM SUTURA MENISCAL UNI/ BICOMPATIMENTAL ( DIREITO)",
+    "code": "408050888",
+    "value": 143.22
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXAÇÃO/ FRATURA- LUXAÇÃO METATARSO- FALANGIANA/ INTER-FALANGIANA",
+    "code": "408050691",
+    "value": 114.13
+  },
+  {
+    "name": "TENOPLASTIA OU ENXERTO DE TENDAO UNICO",
+    "code": "408060476",
+    "value": 173.8
+  },
+  {
+    "name": "RETIRADA DE PLACA E/OU PARAFUSOS",
+    "code": "408060379",
+    "value": 61.56
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DIAFISARIA DE AMBOS OS OSSOS DO ANTEBRAÇO ( C/ SINTESE)",
+    "code": "408020423",
+    "value": 172.11
+  },
+  {
+    "name": "ARTRODESE DE PEQUENAS ARTICULAÇÕES",
+    "code": "408060050",
+    "value": 91.66
+  },
+  {
+    "name": "DEBRIDAMENTO DE ULCERA / NECROSE",
+    "code": "415040043",
+    "value": 0.0
+  },
+  {
+    "name": "RETIRADA DE FIXADOR EXTERNO",
+    "code": "408060360",
+    "value": 55.96
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE ROTURA DO MENISCO COM MENISCECTOMIA PARCIAL / TOTAL",
+    "code": "408050896",
+    "value": 580.76
+  },
+  {
+    "name": "RECONSTRUÇÃO LIGAMENTAR DO TORNOZELO",
+    "code": "408050144",
+    "value": 169.13
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO / FRATURA-LUXACAO CARPO-METACARPIANA",
+    "code": "408020512",
+    "value": 90.06
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA SUPRACONDILEANA DO FEMUR ( METAFISE DISTAL)",
+    "code": "408050624",
+    "value": 247.8
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA TRANSTROCANTERIANA",
+    "code": "408050632",
+    "value": 247.8
+  },
+  {
+    "name": "ARTRODESE DE MEDIAS/ GRANDES ARTICULAÇOES DE MEMBRO SUPERIOR",
+    "code": "408020032",
+    "value": 99.2
+  },
+  {
+    "name": "ARTROCENTESE DE GRANDES ARTICULAÇOES",
+    "code": "303090014",
+    "value": 0.0
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO / FRATURA-LUXACAO ACROMIO- CLAVICULAR",
+    "code": "408010185",
+    "value": 102.15
+  },
+  {
+    "name": "ARTRODESE DE GRANDES ARTICULAÇÕES ESCAPULO-UMERAIS",
+    "code": "408010029",
+    "value": 166.68
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE PSEUDO-RETARDO / CONSOLIDAÇÃO / PERDA ÓSSEA AO ÍIVEL DO CARPO",
+    "code": "408020601",
+    "value": 102.76
+  },
+  {
+    "name": "ARTROPLASTIA DE PUNHO",
+    "code": "408020067",
+    "value": 110.53
+  },
+  {
+    "name": "REDUÇÃO INCRULENTA DA DIAFISE DO UMERO",
+    "code": "408020199",
+    "value": 59.66
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE PSEUDARTROSE / RETARDO DE CONSOLIDAÇÃO /PERDA ÓSSEA DO PÉ",
+    "code": "408050829",
+    "value": 114.2
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA / LESAO FISARIA DOS METATARSIANOS",
+    "code": "408050462",
+    "value": 114.17
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA / LESÃO FISARIA SUPRACONDILIANA DO ÚMERO",
+    "code": "408020385",
+    "value": 134.68
+  },
+  {
+    "name": "REDUCAO INCRUENTA DA LUXACAO / FRATURA-LUXACAO METATARSOFALANGIANA/ INTERFALANGIANA DO PÉ",
+    "code": "408050195",
+    "value": 59.66
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO OU FRATURA-LUXACAO DO COTOVELO",
+    "code": "408020547",
+    "value": 110.15
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXAÇÃO/ FRATURA METACARPO- FALANGIANA",
+    "code": "408020539",
+    "value": 82.9
+  },
+  {
+    "name": "RECONSTRUÇÃO LIGAMENTAR EXTRA-ARTICULAR DO JOELHO",
+    "code": "408050152",
+    "value": 143.22
+  },
+  {
+    "name": "RECONSTRUÇÃO CAPSULO-LIGAMENTAR DE COTOVELO PUNHO",
+    "code": "408020130",
+    "value": 97.48
+  },
+  {
+    "name": "REALINHAMENTO DO MECANISMO EXTENSOR DO JOELHO",
+    "code": "408050128",
+    "value": 112.28
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA PATELA POR FIXAÇÃO INTERNA",
+    "code": "408050527",
+    "value": 159.58
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA SUPRACONDILEANA DO FEMUR(METAFISE DISTAL)",
+    "code": "408050624",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE ROTURA DO MENISCO COM MENISCECTOMIA PARCIAL/TOTAL",
+    "code": "4080508960",
+    "value": 580.76
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA DIAFISE DA TIBIA",
+    "code": "4080505000",
+    "value": 215.11
+  },
+  {
+    "name": "RECONSTRUCAO DE TEDAO PATELAR/TENDAO QUADRICIPITAL",
+    "code": "4080501360",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA/LESAO FISARIA DOS METATARSIANOS",
+    "code": "4080504620",
+    "value": 114.17
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO CALCANEO",
+    "code": "408050535",
+    "value": 114.13
+  },
+  {
+    "name": "TENOMIORRAFIA",
+    "code": "4080604500",
+    "value": 81.66
+  },
+  {
+    "name": "RETIRADA DE FIO OU PINO INTRA-OSSEO",
+    "code": "4080603520",
+    "value": 55.96
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO PLANALTO TIBIAL",
+    "code": "4080505510",
+    "value": 145.07
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA EXTREMIDADE / METÁFISE DISTAL DOS OSSOS DO ANTEBRAÇO",
+    "code": "4080204070",
+    "value": 94.31
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "4030200500",
+    "value": 214.5
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA CLAVÍCULA",
+    "code": "408010150",
+    "value": 103.18
+  },
+  {
+    "name": "ARTRODESE DE MÉDIAS / GRANDES ARTICULAÇÕES DE MEMBRO SUPERIOR",
+    "code": "4080200320",
+    "value": 99.2
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE ROTURA DE MENISCO COM SUTURA MENISCAL UNI / BICOMPATIMENTAL",
+    "code": "4080508880",
+    "value": 143.22
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA DIÁFISE DO FEMUR",
+    "code": "4080505190",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA/LESAO FISARIA PROXIMAL(COLO)DO FEMUR(SINTESE)",
+    "code": "4080504890",
+    "value": 246.63
+  },
+  {
+    "name": "QUADRICEPSPLASTIA",
+    "code": "4080501100",
+    "value": 332.03
+  },
+  {
+    "name": "TENOPLASTIA OU ENXERTO DE TEDAO UNICO",
+    "code": "4080604760",
+    "value": 173.8
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "4030200690",
+    "value": 321.75
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA DIÁFISE DE UMERO",
+    "code": "4080203930",
+    "value": 122.44
+  },
+  {
+    "name": "RETIRADA DE MATERIAL DE SINTESE OSSEA/ DENTARIA",
+    "code": "4080603790",
+    "value": 61.56
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA SUBTROCANTERIANA",
+    "code": "4080506160",
+    "value": 225.27
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA TRANSTROCANTERIANA",
+    "code": "4080506320",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA / LESÃO FISARIA DOS METACARPIANOS",
+    "code": "4080203770",
+    "value": 111.51
+  },
+  {
+    "name": "REPARO DE ROTURA DO MANGUITO ROTADOR (INCLUI PROCEDIMENTOS DESCOMPRESSIVOS)",
+    "code": "4080101420",
+    "value": 190.86
+  },
+  {
+    "name": "REDUÇÃO INCRUENTA DE FRATURA DA DIÁFISE DO ÚMERO",
+    "code": "4080201990",
+    "value": 59.66
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA / LESÃO FISARIA DA EXTREMIDADE PROXIMAL DO UMERO",
+    "code": "4080203340",
+    "value": 134.59
+  },
+  {
+    "name": "TRATAMENTO CIRURGICA DE PSEUDARTROSE/RETARDO DE CONSOLIDACAO/PERDA OSSEA DA DIAFISE DO FEMUR",
+    "code": "4080507990",
+    "value": 225.27
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO TALUS",
+    "code": "4080505600",
+    "value": 114.13
+  },
+  {
+    "name": "RECONSTRUÇÃO LIGAMENTAR DO TORNOZELO",
+    "code": "4080501440",
+    "value": 169.13
+  },
+  {
+    "name": "REDUCAO INCRUENTA DE FRATURA DIAFISARIA/LESAO FISARIA DISTAL DA TIBIA C/OU S/FRATURA DA FIBULA",
+    "code": "4080502250",
+    "value": 56.43
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO PILAO TIBIAL",
+    "code": "4080505430",
+    "value": 202.95
+  },
+  {
+    "name": "RETIRADA DE FIXADOR EXTERNO",
+    "code": "4080603600",
+    "value": 55.96
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO/FRATURA-METACARPO-FALANGIANA",
+    "code": "4080205390",
+    "value": 82.9
+  },
+  {
+    "name": "ARTROPLASTIA DE CABEÇA DO RÁDIO",
+    "code": "4080200590",
+    "value": 99.84
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DIAFISARIA DE AMBOS OS OSSOS DO ANTEBRAÇO ( C/ SINTESE)",
+    "code": "4080204230",
+    "value": 172.11
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA BIMALEOLAR / TRIMALEOLAR / DA FRATURA-LUXAÇÃO DO TORNOZELO",
+    "code": "4080504970",
+    "value": 169.13
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO/FRATURA-LUXACAO METACARPO-FALANGIANA/INTRA-FALANGIANA",
+    "code": "4080506910",
+    "value": 114.13
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DAS DESINSERCOES DAS ESPINHAS INTERCONDILARES/EPICONDILARES",
+    "code": "4080504200",
+    "value": 140.43
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA PATELA POR FIXAÇÃO INTERNA",
+    "code": "408050527",
+    "value": 159.58
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA / LESÃO FISARIA SUPRACONDILIANA DO UMERO",
+    "code": "4080203850",
+    "value": 134.68
+  },
+  {
+    "name": "DESARTICULACAO COXOFEMORAL",
+    "code": "4080401060",
+    "value": 291.57
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE ROTURA/DESINSERCAO/ARRANCAMENTO CAPSULO-TENO-LIGAMENTAR NA MAO",
+    "code": "408020610",
+    "value": 111.51
+  },
+  {
+    "name": "MICROCIRURGIA DE PLEXO BRAQUIAL COM EXPLORACAO E NEUROLISE",
+    "code": "4030200340",
+    "value": 230.16
+  },
+  {
+    "name": "RECONSTRUÇÃO CAPSULO-LIGAMENTAR DE COTOVELO PUNHO",
+    "code": "4080201300",
+    "value": 97.48
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE PSEUDARTROSE / RETARDO DE CONSOLIDAÇÃO / PERDA ÓSSEA DO ANTEBRAÇO",
+    "code": "4080205630",
+    "value": 148.18
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE PSEUDARTROSE NA REGIÃO METAFISE- EPIFISÁRIA DISTAL DO RÁDIO E ULNA",
+    "code": "4080205980",
+    "value": 102.76
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DIAFISARIA ÚNICA DO RÁDIO / DA ULNA",
+    "code": "4080204310",
+    "value": 95.94
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE SINOSTOSE RÁDIO ULNAR",
+    "code": "4080206360",
+    "value": 134.71
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DE EXTREMIDADES / METÁFISE PROXIMAL DOS OSSOS DO ANTEBRAÇO",
+    "code": "4080204150",
+    "value": 132.66
+  },
+  {
+    "name": "ENXERTO LIVRE DE PELE TOTAL",
+    "code": "4010200370",
+    "value": 175.13
+  },
+  {
+    "name": "DEBRIDAMENTO DE FASCEITE NECROTIZANTE",
+    "code": "4150400270",
+    "value": 170.11
+  },
+  {
+    "name": "HERNIOPLASTIA INGUINAL / CRURAL (UNILATERAL)",
+    "code": "4070401020",
+    "value": 407040102.0
+  },
+  {
+    "name": "COLECISTECTOMIA VIDEOLAPAROSCÓPICA",
+    "code": "4070300340",
+    "value": 407030034.0
+  },
+  {
+    "name": "COLECISTECTOMIA VIDEOLAPAROSCÓPICA",
+    "code": "4070300260",
+    "value": 407030026.0
+  },
+  {
+    "name": "HISTERECTOMIA C/ ANEXECTOMIA (UNI / BILATERAL)",
+    "code": "4090601190",
+    "value": 409060119.0
+  },
+  {
+    "name": "HERNIOPLASTIA EPIGASTRICA",
+    "code": "4070400640",
+    "value": 407040064.0
+  },
+  {
+    "name": "HERNIOPLASTIA UMBILICAL",
+    "code": "4070401290",
+    "value": 407040129.0
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE VARIZES (BILATERAL)",
+    "code": "4060205660",
+    "value": 406020566.0
+  },
+  {
+    "name": "DEBRIDAMENTO DE ULCERA / DE TECIDOS DESVITALIZADOS",
+    "code": "4150400350",
+    "value": 415040035.0
+  },
+  {
+    "name": "PROSTATECTOMIA SUPRAPÚBICA",
+    "code": "4090300230",
+    "value": 409030023.0
+  },
+  {
+    "name": "EXERESE DE TUMOR DE PELE E ANEXOS / CISTO SEBACEO / LIPOMA",
+    "code": "4010200100",
+    "value": 401020010.0
+  },
+  {
+    "name": "ELETROCOAGULACAO DE LESAO CUTANEA",
+    "code": "4010100400",
+    "value": 401010040.0
+  },
+  {
+    "name": "EXCISÃO / ENXERTO DE PELE (HEMANGIOMA, NEVUS OU TUMOR)",
+    "code": "4010200450",
+    "value": 401020045.0
+  },
+  {
+    "name": "HERNIOPLASTIA UMBILICAL",
+    "code": "407041290",
+    "value": 40704129.0
+  },
+  {
+    "name": "HISTERECTOMIA TOTAL",
+    "code": "4090601350",
+    "value": 409060135.0
+  },
+  {
+    "name": "RETIRADA DE DRENO TUBULAR TORACICO",
+    "code": "4120301280",
+    "value": 412030128.0
+  },
+  {
+    "name": "HISTERECTOMIA TOTAL",
+    "code": "4190601350",
+    "value": 419060135.0
+  },
+  {
+    "name": "SALPINGECTOMIA BILATERAL",
+    "code": "4090602320",
+    "value": 409060232.0
+  },
+  {
+    "name": "POSTECTOMIA",
+    "code": "4090800830",
+    "value": 409080083.0
+  },
+  {
+    "name": "AMPUTAÇÃO DO PÊNIS",
+    "code": "4090300160",
+    "value": 409030016.0
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE HIDROCELE",
+    "code": "4090402150",
+    "value": 409040215.0
+  },
+  {
+    "name": "HEMORROIDECTOMIA",
+    "code": "4070202840",
+    "value": 124.84
+  },
+  {
+    "name": "RESSUTURA DE PAREDE ABDOMINAL (POR DEISCENCIA TOTAL / EVISCERAÇÃO)",
+    "code": "4070402420",
+    "value": 106.45
+  },
+  {
+    "name": "HERNIOPLASTIA RECIDIVANTE",
+    "code": "4070401100",
+    "value": 196.76
+  },
+  {
+    "name": "EXERESE DE TUMOR DE PELE E ANEXOS / CISTO SEBACEO / LIPOMA",
+    "code": "4010100580",
+    "value": 175.13
+  },
+  {
+    "name": "HERNIOPLASTIA INGUINAL / CRURAL (UNILATERAL)",
+    "code": "4070400990",
+    "value": 210.49
+  },
+  {
+    "name": "LUXAÇÃO DA ARTICULAÇÃO ACROMIOCLAVICULAR E",
+    "code": "4080101850",
+    "value": 663.975
+  },
+  {
+    "name": "HERNIOPLASTIA INGUINAL / CRUAL (UNILATERAL)",
+    "code": "407040102",
+    "value": 210.45
+  },
+  {
+    "name": "HERNIOPLASTIA UMBILICAL",
+    "code": "407040129",
+    "value": 136.44
+  },
+  {
+    "name": "GASTROSTOMIA",
+    "code": "407010211",
+    "value": 120.23
+  },
+  {
+    "name": "COLECISTECTOMIA POR VIDEOLAPAROSCOPIA",
+    "code": "407030034",
+    "value": 245.99
+  },
+  {
+    "name": "APENDICECTOMIA POR VIDEOLAPAROSCOPIA",
+    "code": "407020047",
+    "value": 178.43
+  },
+  {
+    "name": "HERNIOPLASTIA UMBILICAL",
+    "code": "40704129",
+    "value": 136.44
+  },
+  {
+    "name": "HISTERECTOMIIA COM ANEXECTOMIA UNI/BILATERAL",
+    "code": "409060119",
+    "value": 370.6
+  },
+  {
+    "name": "ESTENOPLASTIA ANAL",
+    "code": "0407020330",
+    "value": 256.6
+  },
+  {
+    "name": "ORQUIDOPEXIA UNILATERAL",
+    "code": "409040134",
+    "value": 136.16
+  },
+  {
+    "name": "POSTECTOMIA",
+    "code": "409050083",
+    "value": 121.4
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE VARIZES (BILATERAL)",
+    "code": "406020566",
+    "value": 573.37
+  },
+  {
+    "name": "HERNIOPLASTIA EPIGASTRICA",
+    "code": "407040064",
+    "value": 214.91
+  },
+  {
+    "name": "HERNIOPLASTIA INCISIONAL",
+    "code": "407040080",
+    "value": 147.69
+  },
+  {
+    "name": "EXERESE DE TUMOR DE PELE E ANEXOS / CISTO SEBACEO / LIPOMA",
+    "code": "401010074",
+    "value": 160.0
+  },
+  {
+    "name": "HISTERECTOMIA TOTAL",
+    "code": "409060135",
+    "value": 317.49
+  },
+  {
+    "name": "SALPINGECTOMIA UNI / BILATERAL",
+    "code": "409060232",
+    "value": 152.87
+  },
+  {
+    "name": "HEMORROIDECTOMIA",
+    "code": "407020284",
+    "value": 124.84
+  },
+  {
+    "name": "RESSECÇÃO DE CISTO SINOVIAL",
+    "code": "408060212",
+    "value": 39.09
+  },
+  {
+    "name": "ENXERTO COMPOSTO",
+    "code": "401020010",
+    "value": 175.13
+  },
+  {
+    "name": "EXCISÃO E SUTURA  DE LESÃO DE PELEC/ PLÁSTICA EM Z OU ROTAÇÃO  DE RETALHO",
+    "code": "401020053",
+    "value": 106.55
+  },
+  {
+    "name": "EXCISÃO E ENXERTO DE PELE (HEMANGIOMA, NEVUS, OU TUMOR)",
+    "code": "401020045",
+    "value": 106.55
+  },
+  {
+    "name": "FASCIOTOMIA DE MEMBROS INFERIORES",
+    "code": "408050080",
+    "value": 120.15
+  },
+  {
+    "name": "DEBRIDAMENTO DE ULCERA / DE TECIDOS DESVITALIZADOS",
+    "code": "415040035",
+    "value": 215.91
+  },
+  {
+    "name": "SAFENECTOMIA DIREITA",
+    "code": "406050040",
+    "value": 1181.23
+  },
+  {
+    "name": "HERNIOPLASTIA RECIDIVANTE UMBILICAL",
+    "code": "407040110",
+    "value": 196.76
+  },
+  {
+    "name": "Hernioplastia Inguinal Unilateral",
+    "code": "0407040102",
+    "value": 210.45
+  },
+  {
+    "name": "Laparotomia Exploradora",
+    "code": "0416040209",
+    "value": 139.99
+  },
+  {
+    "name": "Salpingectomia Bilateral",
+    "code": "0409060232",
+    "value": 152.87
+  },
+  {
+    "name": "Ooforectomia Unilateral",
+    "code": "0409060216",
+    "value": 151.86
+  },
+  {
+    "name": "Conização de Colo Uterino",
+    "code": "0409060038",
+    "value": 138.46
+  },
+  {
+    "name": "Colpoperineoplastia",
+    "code": "0409070050",
+    "value": 174.31
+  },
+  {
+    "name": "Colecistectomia VLP",
+    "code": "0407030034",
+    "value": 245.99
+  },
+  {
+    "name": "Postectomia - Parafimose",
+    "code": "0409050083",
+    "value": 121.4
+  },
+  {
+    "name": "Eletrocoagulação de Lesões Penianas",
+    "code": "0401010040",
+    "value": 160.0
+  },
+  {
+    "name": "Setorectomia",
+    "code": "0410010111",
+    "value": 128.13
+  },
+  {
+    "name": "Reconstrução de Parede Abdominal",
+    "code": "0407040242",
+    "value": 106.49
+  },
+  {
+    "name": "Drenagem de Abcesso",
+    "code": "401010031",
+    "value": 160.0
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO TORNOZELO UNIMALEOLAR",
+    "code": "4080505780",
+    "value": 124.03
+  },
+  {
+    "name": "MANIPULAÇÃO ARTICULAR",
+    "code": "4080601580",
+    "value": 54.79
+  },
+  {
+    "name": "RETIRADA DE MATERIAL DE SINTESE OSSEA / DENTARIA",
+    "code": "4040206230",
+    "value": 24.12
+  },
+  {
+    "name": "ARTRODESE DE PEQUENAS ARTICULAÇÕES",
+    "code": "4080600500",
+    "value": 91.66
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE LESÃO AGUDA CAPSULO-LIGAMENTAR DO MEMBRO SUPERIOR: COTOVELO / PUNHO",
+    "code": "408020482",
+    "value": 97.48
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE LESÃO AGUDA CAPSULO-LIGAMENTAR MEMBRO INFERIOR ( JOELHO / TORNOZELO)",
+    "code": "4080506670",
+    "value": 150.17
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO/FRATURA-LUXACAO CARPO-METACARPIANA",
+    "code": "4080205120",
+    "value": 90.06
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DIAFISARIA DE AMBOS OS OSSOS DO ANTEBRAÇO (C/ SINTESE)",
+    "code": "4080202430",
+    "value": 94.31
+  },
+  {
+    "name": "Colecistectomia Videolaparoscópica",
+    "code": "040703003",
+    "value": 245.99
+  },
+  {
+    "name": "Hidrocelectomia",
+    "code": "0409040215",
+    "value": 75.12
+  },
+  {
+    "name": "Histerectomia",
+    "code": "0409060135",
+    "value": 317.49
+  },
+  {
+    "name": "Miomectomia",
+    "code": "0409060194",
+    "value": 184.97
+  },
+  {
+    "name": "Exérese de Glândula de Bartholin",
+    "code": "0409070157",
+    "value": 62.85
+  },
+  {
+    "name": "Orquiectomia",
+    "code": "0409040169",
+    "value": 135.59
+  },
+  {
+    "name": "Hernioplastia Umbilical",
+    "code": "0407040129",
+    "value": 136.44
+  },
+  {
+    "name": "Hernioplastia Epigástrica",
+    "code": "0407040064",
+    "value": 214.91
+  },
+  {
+    "name": "Fistulectomia Anal",
+    "code": "040702027",
+    "value": 115.49
+  },
+  {
+    "name": "Exérese de Cisto Sacro-Coccígeo",
+    "code": "0401020088",
+    "value": 55.29
+  },
+  {
+    "name": "Laparotomia Exploradora",
+    "code": "0407040161",
+    "value": 139.99
+  },
+  {
+    "name": "Hernioplastia Incisional",
+    "code": "0407040080",
+    "value": 147.69
+  },
+  {
+    "name": "Exérese de Cisto Vaginal",
+    "code": "0409070149",
+    "value": 146.65
+  },
+  {
+    "name": "Retirada de fio de Kirshner",
+    "code": "0408060352",
+    "value": 55.96
+  },
+  {
+    "name": "Hernioplastia Inguinal Bilateral",
+    "code": "040704009",
+    "value": 210.49
+  },
+  {
+    "name": "Drenagem de Abcesso Hepático por Videolaparoscópica",
+    "code": "0407040170",
+    "value": 133.43
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA SUBTROCANTERIANA",
+    "code": "408050616",
+    "value": 225.27
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DO FEMUR",
+    "code": "408050519",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO / FRATURA-LUXACAO METATARSO-FALANGIANA / INTER-FALANGIANA",
+    "code": "408050691",
+    "value": 114.13
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "RECONSTRUCAO DE TENDAO PATELAR / TENDAO QUADRICIPITAL",
+    "code": "408050136",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DA TIBIA",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DO TORNOZELO UNIMALEOLAR",
+    "code": "408050578",
+    "value": 124.03
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "RECONSTRUCAO DE TENDAO PATELAR / TENDAO QUADRICIPITAL",
+    "code": "408050136",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DA TIBIA",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DO FEMUR",
+    "code": "408050519",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO / FRATURA-LUXACAO ACROMIO-CLAVICULAR",
+    "code": "408010185",
+    "value": 102.15
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO / FRATURA-LUXACAO ACROMIO-CLAVICULAR",
+    "code": "408010185",
+    "value": 102.15
+  },
+  {
+    "name": "RECONSTRUCAO DE TENDAO PATELAR / TENDAO QUADRICIPITAL",
+    "code": "408050136",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO / FRATURA-LUXACAO ACROMIO-CLAVICULAR",
+    "code": "408010185",
+    "value": 102.15
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "RECONSTRUCAO DE TENDAO PATELAR / TENDAO QUADRICIPITAL",
+    "code": "408050136",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA TRANSTROCANTERIANA",
+    "code": "408050632",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DO FEMUR",
+    "code": "408050519",
+    "value": 247.8
+  },
+  {
+    "name": "RETIRADA DE FIO OU PINO INTRA-ÓSSEO",
+    "code": "408060352",
+    "value": 55.96
+  },
+  {
+    "name": "RETIRADA DE FIO OU PINO INTRA-ÓSSEO",
+    "code": "408060352",
+    "value": 55.96
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE PSEUDARTROSE / RETARDO DE CONSOLIDAÇÃO / PERDA ÓSSEA DA DIÁFISE TIBIAL",
+    "code": "408050861",
+    "value": 195.55
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA / LESÃO FISARIA DAS FALANGES DA MÃO (COM\nFIXAÇÃO",
+    "code": "408020342",
+    "value": 82.91
+  },
+  {
+    "name": "QUADRICEPSPLASTIA",
+    "code": "408050110",
+    "value": 332.03
+  },
+  {
+    "name": "RETIRADA DE FIO OU PINO INTRA-ÓSSEO",
+    "code": "408060352",
+    "value": 55.96
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO / FRATURA-LUXACAO ACROMIO- CLAVICULAR",
+    "code": "408010185",
+    "value": 102.15
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA DIÁFISE DA TÍBIA",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO PILÃO TIBIAL",
+    "code": "408050543",
+    "value": 202.95
+  },
+  {
+    "name": "QUADRICEPSPLASTIA",
+    "code": "408050110",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA DIÁFISE DO FÊMUR",
+    "code": "408050519",
+    "value": 247.8
+  },
+  {
+    "name": "RETIRADA DE FIO OU PINO INTRA-ÓSSEO",
+    "code": "408060352",
+    "value": 55.96
+  },
+  {
+    "name": "DEBRIDAMENTO DE ULCERA / DE TECIDOS DESVITALIZADOS",
+    "code": "415040035",
+    "value": 215.91
+  },
+  {
+    "name": "RETIRADA DE FIO OU PINO INTRA-ÓSSEO",
+    "code": "408060352",
+    "value": 55.96
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO / FRATURA-LUXACAO ACROMIO-CLAVICULAR",
+    "code": "408010185",
+    "value": 102.15
+  },
+  {
+    "name": "DEBRIDAMENTO DE ULCERA / DE TECIDOS DESVITALIZADOS",
+    "code": "415040035",
+    "value": 215.91
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO PLANALTO TIBIAL",
+    "code": "408050551",
+    "value": 145.07
+  },
+  {
+    "name": "DEBRIDAMENTO DE ULCERA / DE TECIDOS DESVITALIZADOS",
+    "code": "415040035",
+    "value": 215.91
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA / LESÃO FISARIA DOS METACARPIANOS",
+    "code": "408020377",
+    "value": 111.51
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA EXTREMIDADE / METÁFISE DISTAL DOS OSSOS DO ANTEBRAÇO",
+    "code": "408020407",
+    "value": 94.31
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO / FRATURA-LUXACAO ACROMIO-CLAVICULAR",
+    "code": "408010185",
+    "value": 102.15
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO PLANALTO TIBIAL",
+    "code": "408050551",
+    "value": 145.07
+  },
+  {
+    "name": "DEBRIDAMENTO DE ULCERA / DE TECIDOS DESVITALIZADOS",
+    "code": "415040035",
+    "value": 215.91
+  },
+  {
+    "name": "NEUROLISE NAO FUNCIONAL DE NERVOS PERIFERICOS",
+    "code": "403020077",
+    "value": 180.75
+  },
+  {
+    "name": "DEBRIDAMENTO DE ULCERA / DE TECIDOS DESVITALIZADOS",
+    "code": "415040035",
+    "value": 215.91
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO PLANALTO TIBIAL",
+    "code": "408050551",
+    "value": 145.07
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO PILÃO TIBIAL",
+    "code": "408050543",
+    "value": 202.95
+  },
+  {
+    "name": "DEBRIDAMENTO DE ULCERA / DE TECIDOS DESVITALIZADOS",
+    "code": "415040035",
+    "value": 215.91
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO PLANALTO TIBIAL",
+    "code": "408050551",
+    "value": 145.07
+  },
+  {
+    "name": "DEBRIDAMENTO DE ULCERA / DE TECIDOS DESVITALIZADOS",
+    "code": "415040035",
+    "value": 215.91
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE ROTURA DO MENISCO COM MENISCECTOMIA PARCIAL / TOTAL",
+    "code": "408050896",
+    "value": 580.76
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE LUXACAO / FRATURA-LUXACAO ACROMIO-CLAVICULAR",
+    "code": "408010185",
+    "value": 102.15
+  },
+  {
+    "name": "DEBRIDAMENTO DE ULCERA / DE TECIDOS DESVITALIZADOS",
+    "code": "415040035",
+    "value": 215.91
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA-LUXAÇÃO DE GALEAZZI / MONTEGGIA / ESSEX-LOPRESTI",
+    "code": "408020458",
+    "value": 132.66
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA / LESÃO FISARIA DOS METACARPIANOS",
+    "code": "408020377",
+    "value": 111.51
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA / LESÃO FISARIA DAS FALANGES DA MÃO (COM FIXAÇÃO)",
+    "code": "408020342",
+    "value": 82.91
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE LUXAÇÃO / FRATURA-LUXAÇÃO METACARPO-FALANGIANA",
+    "code": "408020539",
+    "value": 82.9
+  },
+  {
+    "name": "REPARO DE ROTURA DO MANGUITO ROTADOR (INCLUI PROCEDIMENTOS DESCOMPRESSIVOS)",
+    "code": "408010142",
+    "value": 190.86
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA TRANSTROCANTERIANA",
+    "code": "408050632",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA DIÁFISE DO FÊMUR",
+    "code": "408050519",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DA TIBIA",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DO PILAO TIBIAL",
+    "code": "408050543",
+    "value": 202.95
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA BIMALEOLAR / TRIMALEOLAR / DAFRATURA- LUXAÇÃO DO TORNOZELO",
+    "code": "408050497",
+    "value": 169.13
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA DIÁFISE DA TÍBIA",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO PILÃO TIBIAL",
+    "code": "408050543",
+    "value": 202.95
+  },
+  {
+    "name": "REPARO DE ROTURA DO MANGUITO ROTADOR (INCLUI PROCEDIMENTOS\nDESCOMPRESSIVOS)",
+    "code": "408010142",
+    "value": 190.86
+  },
+  {
+    "name": "TRATAMENTO CIRÚGICO DE FRATURA DA DIÁFISE DO ÚMERO",
+    "code": "408020393",
+    "value": 122.44
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA / LESÃO FISARIA DA EXTREMIDADEPROXIMAL\nDO UMERO",
+    "code": "408020334",
+    "value": 134.59
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE LUXAÇÃO / FRATURA-LUXAÇÃO METATARSO-FALANGIANA\n/ INTER-FALANGIANA",
+    "code": "408050691",
+    "value": 114.13
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVOS PERIFERICOS",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE LUXAÇÃO / FRATURA-LUXAÇÃO METATARSO-FALANGIANA\n/ INTER-FALANGIANA",
+    "code": "408050691",
+    "value": 114.13
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DE DIAFISE DO FEMUR",
+    "code": "408050519",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE DE FRATURA SUBTROCANTERIANA",
+    "code": "408050616",
+    "value": 225.27
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA DIÁFISE DA TÍBIA",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DO PILÃO TIBIAL",
+    "code": "408050543",
+    "value": 202.95
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA BIMALEOLAR / TRIMALEOLAR / DA FRATURALUXAÇÃO DO TORNOZELO",
+    "code": "408050497",
+    "value": 169.13
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "RECONSTRUÇÃODE TENDAO PATELAR / TENDAO QUADRICIPITAL",
+    "code": "408050136",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA DIÁFISE DA TÍBIA",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA DIÁFISE DO FÊMUR",
+    "code": "408050519",
+    "value": 247.8
+  },
+  {
+    "name": "QUADRICEPSPLASTIA",
+    "code": "408050110",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA TRANSTROCANTERIANA",
+    "code": "408050632",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRÚRGICO DE FRATURA DA DIÁFISE DO FÊMUR",
+    "code": "408050519",
+    "value": 247.8
+  },
+  {
+    "name": "RECONSTRUÇÃODE TENDAO PATELAR / TENDAO QUADRICIPITAL",
+    "code": "408050136",
+    "value": 332.03
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO FRATURA/LESAO FISARIA CONDILO/TROCLEA/APOFISE CORONOIDE DO ULNA/CABECA DO RADIO",
+    "code": "408020369",
+    "value": 121.17
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA SUBTROCANTERIANA",
+    "code": "408050616",
+    "value": 225.27
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DO FEMUR",
+    "code": "408050519",
+    "value": 247.8
+  },
+  {
+    "name": "RETIRADA DE FIO OU PINO INTRA-OSSEO",
+    "code": "408060352",
+    "value": 55.96
+  },
+  {
+    "name": "RECONSTRUCAO DE TENDAO PATELAR / TENDAO QUADRICIPITAL",
+    "code": "408050136",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DA TIBIA",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "RECONSTRUCAO DE TENDAO PATELAR / TENDAO QUADRICIPITAL",
+    "code": "408050136",
+    "value": 332.03
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "QUADRICEPSPLASTIA",
+    "code": "408050110",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA TRANSTROCANTERIANA",
+    "code": "408050632",
+    "value": 247.8
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA / LESAO FISARIA DA EXTREMIDADE PROXIMAL DO UMERO",
+    "code": "408020334",
+    "value": 134.59
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO FRATURA/LESAO FISARIA CONDILO/TROCLEA/APOFISE CORONOIDE DO ULNA/CABECA DO RADIO",
+    "code": "408020369",
+    "value": 121.17
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "MICRONEURORRAFIA",
+    "code": "403020069",
+    "value": 321.75
+  },
+  {
+    "name": "REPARO DE ROTURA DO MANGUITO ROTADOR (INCLUI PROCEDIMENTOS DESCOMPRESSIVOS)",
+    "code": "408010142",
+    "value": 190.86
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DA TIBIA",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE ROTURA DO MENISCO COM MENISCECTOMIA PARCIAL / TOTAL",
+    "code": "408050896",
+    "value": 580.76
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DIAFISARIA DE AMBOS OS OSSOS DO ANTEBRACO (C/ SINTESE)",
+    "code": "408020423",
+    "value": 172.11
+  },
+  {
+    "name": "MICROCIRURGIA DE PLEXO BRAQUIAL COM EXPLORACAO E NEUROLISE",
+    "code": "403020034",
+    "value": 230.16
+  },
+  {
+    "name": "QUADRICEPSPLASTIA",
+    "code": "408050110",
+    "value": 332.03
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DA TIBIA",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DO PILAO TIBIAL",
+    "code": "408050543",
+    "value": 202.95
+  },
+  {
+    "name": "MICROCIRURGIA DE PLEXO BRAQUIAL COM EXPLORACAO E NEUROLISE",
+    "code": "403020034",
+    "value": 230.16
+  },
+  {
+    "name": "RETIRADA DE FIO OU PINO INTRA-OSSEO",
+    "code": "408060352",
+    "value": 55.96
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DIAFISARIA DE AMBOS OS OSSOS DO ANTEBRACO (C/ SINTESE)",
+    "code": "408020423",
+    "value": 172.11
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DO FEMUR",
+    "code": "408050519",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA TRANSTROCANTERIANA",
+    "code": "408050632",
+    "value": 247.8
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE ROTURA DO MENISCO COM MENISCECTOMIA PARCIAL / TOTAL",
+    "code": "408050896",
+    "value": 580.76
+  },
+  {
+    "name": "MICROCIRURGIA DE PLEXO BRAQUIAL COM EXPLORACAO E NEUROLISE",
+    "code": "403020034",
+    "value": 230.16
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DO PILAO TIBIAL",
+    "code": "408050543",
+    "value": 202.95
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DIAFISARIA DE AMBOS OS OSSOS DO ANTEBRACO (C/ SINTESE)",
+    "code": "408020423",
+    "value": 172.11
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DO PILAO TIBIAL",
+    "code": "408050543",
+    "value": 202.95
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA BIMALEOLAR / TRIMALEOLAR / DA FRATURA-LUXACAO DO TORNOZELO",
+    "code": "408050497",
+    "value": 169.13
+  },
+  {
+    "name": "MICRONEUROLISE DE NERVO PERIFERICO",
+    "code": "403020050",
+    "value": 214.5
+  },
+  {
+    "name": "DEBRIDAMENTO DE FASCEITE NECROTIZANTE",
+    "code": "415040027",
+    "value": 170.11
+  },
+  {
+    "name": "QUADRICEPSPLASTIA",
+    "code": "408050110",
+    "value": 332.03
+  },
+  {
+    "name": "REPARO DE ROTURA DO MANGUITO ROTADOR( INCLUI PROCEDIMENTO DESCOMPRESSIVOS)",
+    "code": "408010142",
+    "value": 190.86
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA/ LESAO FISARIA DA EXTREMIDADE PROXIMAL DO UMERO",
+    "code": "408010142",
+    "value": 190.86
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DA DIAFISE DA TIBIA",
+    "code": "408050500",
+    "value": 215.11
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE FRATURA DO PILAO TIBIAL",
+    "code": "408050543",
+    "value": 202.95
+  },
+  {
+    "name": "TRATAMENTO CIRURGICO DE ROTURA DO MENISCO COM MENISCECTOMIA PARCIAL / TOTAL",
+    "code": "408050896",
+    "value": 580.76
+  }
+]

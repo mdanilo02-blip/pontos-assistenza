@@ -1,0 +1,218 @@
+generator client {
+    provider = "prisma-client-js"
+    binaryTargets = ["native", "linux-musl-arm64-openssl-3.0.x"]
+    output = "/home/ubuntu/plantoes_assistenza/nextjs_space/node_modules/.prisma/client"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  ADMIN
+  PROFISSIONAL
+}
+
+enum UserStatus {
+  ATIVO
+  INATIVO
+}
+
+enum ShiftStatus {
+  AGENDADO
+  CONCLUIDO
+  CANCELADO
+}
+
+enum TradeRequestStatus {
+  PENDENTE
+  APROVADO
+  RECUSADO
+}
+
+model User {
+  id            String    @id @default(cuid())
+  name          String
+  email         String    @unique
+  emailVerified DateTime?
+  password      String?
+  phone         String?
+  crm           String?
+  role          UserRole  @default(PROFISSIONAL)
+  status        UserStatus @default(ATIVO)
+  photo         String?
+  image         String?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  shifts        Shift[]
+  tradeRequestsMade     TradeRequest[] @relation("Requester")
+  tradeRequestsReceived TradeRequest[] @relation("TargetUser")
+  notifications Notification[]
+  groupMemberships GroupMember[]
+  accounts      Account[]
+  sessions      Session[]
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String? @db.Text
+  access_token      String? @db.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @db.Text
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+model Hospital {
+  id        String   @id @default(cuid())
+  name      String
+  address   String
+  city      String
+  state     String
+  cep       String?
+  phone     String?
+  latitude  Float?
+  longitude Float?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  groups    Group[]
+  shifts    Shift[]
+}
+
+model Group {
+  id          String   @id @default(cuid())
+  name        String
+  description String?
+  hospitalId  String
+  hospital    Hospital @relation(fields: [hospitalId], references: [id], onDelete: Cascade)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  shifts      Shift[]
+  members     GroupMember[]
+}
+
+model GroupMember {
+  id        String   @id @default(cuid())
+  userId    String
+  groupId   String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  group     Group    @relation(fields: [groupId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@unique([userId, groupId])
+}
+
+model Shift {
+  id          String      @id @default(cuid())
+  startDate   DateTime
+  endDate     DateTime
+  hospitalId  String
+  hospital    Hospital    @relation(fields: [hospitalId], references: [id], onDelete: Cascade)
+  userId      String
+  user        User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  groupId     String
+  group       Group       @relation(fields: [groupId], references: [id], onDelete: Cascade)
+  status      ShiftStatus @default(AGENDADO)
+  notes       String?
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+
+  tradeRequests TradeRequest[]
+  checkInOuts   CheckInOut[]
+}
+
+model TradeRequest {
+  id            String             @id @default(cuid())
+  shiftId       String
+  shift         Shift              @relation(fields: [shiftId], references: [id], onDelete: Cascade)
+  requesterId   String
+  requester     User               @relation("Requester", fields: [requesterId], references: [id], onDelete: Cascade)
+  targetUserId  String
+  targetUser    User               @relation("TargetUser", fields: [targetUserId], references: [id], onDelete: Cascade)
+  status        TradeRequestStatus @default(PENDENTE)
+  justification String?
+  adminNotes    String?
+  createdAt     DateTime           @default(now())
+  respondedAt   DateTime?
+}
+
+model Notification {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  title     String
+  message   String
+  read      Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+enum CheckInOutStatus {
+  CHECKIN
+  CHECKOUT
+}
+
+model CheckInOut {
+  id          String          @id @default(cuid())
+  shiftId     String
+  shift       Shift           @relation(fields: [shiftId], references: [id], onDelete: Cascade)
+  userId      String
+  type        CheckInOutStatus
+  latitude    Float
+  longitude   Float
+  distance    Float           // Distance from hospital in meters
+  timestamp   DateTime        @default(now())
+  procedures  ShiftProcedure[]
+}
+
+model Procedure {
+  id          String   @id @default(cuid())
+  name        String
+  code        String   @unique
+  value       Float
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  shiftProcedures ShiftProcedure[]
+}
+
+model ShiftProcedure {
+  id            String     @id @default(cuid())
+  checkInOutId  String
+  checkInOut    CheckInOut @relation(fields: [checkInOutId], references: [id], onDelete: Cascade)
+  procedureId   String
+  procedure     Procedure  @relation(fields: [procedureId], references: [id], onDelete: Cascade)
+  quantity      Int        @default(1)
+  notes         String?
+  createdAt     DateTime   @default(now())
+
+  @@unique([checkInOutId, procedureId])
+}
