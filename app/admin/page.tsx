@@ -9,7 +9,7 @@ import {
   AlertCircle
 } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import AdminDashboard from './_components/admin-dashboard';
+import { AdminDashboard } from './_components/admin-dashboard';;
 
 const prisma = new PrismaClient();
 
